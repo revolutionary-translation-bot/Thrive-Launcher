@@ -768,4 +768,19 @@
   <data name="PlayUnsafeBuildTitle" xml:space="preserve">
     <value>Запустити нестабільний DevBuild?</value>
   </data>
+  <data name="FoundDevBuildToPlayInfo" xml:space="preserve">
+    <value>Знайдено іграбельний DevBuild: {0}, хеш: {1}, чи це Білд дня: {2}, гілка: {3}</value>
+  </data>
+  <data name="ErrorSubmittingReport" xml:space="preserve">
+    <value>Сталася помилка при спробі відправити ваш краш-репорт. Будь ласка, перевірте правиність даних або спробуйте пізніше, якщо проблема на сервері. Тип помилки:</value>
+  </data>
+  <data name="SubmittingReportExtraInfo" xml:space="preserve">
+    <value>Додаткова інформація стосовно помилки:</value>
+  </data>
+  <data name="SubmitRetryButton" xml:space="preserve">
+    <value>Спробувати знову</value>
+  </data>
+  <data name="SuccessfulReportSubmitMessage" xml:space="preserve">
+    <value>Ваш репорт було успішно відправлено. Дякуємо за ваш репорт.</value>
+  </data>
 </root>
